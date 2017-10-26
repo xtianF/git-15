@@ -1,0 +1,25 @@
+{
+  "name": "git-15",
+  "version": "1.0.0",
+  "description": "test / lern git / materialize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtianF/git-15.git"
+  },
+  "keywords": [
+    "gulag-gucklag"
+  ],
+  "author": "xtian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtianF/git-15/issues"
+  },
+  "homepage": "https://github.com/xtianF/git-15#readme",
+  "dependencies": {
+    "materialize-css": "^0.100.2"
+  }
+}
