@@ -1,7 +1,16 @@
 body{
 	background-color: #ebebeb;
+margin:0;
 }
 
 .row{
 	background-color: #f945ab;
+margin:0;
+}
+img{
+width:100px;
+height:100px;
+}
+.row .col{
+padding:0;
 }
