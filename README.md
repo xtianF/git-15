@@ -8,6 +8,7 @@ Currently using
 - schitzel
 - lawn gnome
 - buttplug
+- snack chisel
 - And much, much more!
 
 ### What tools do I need to use ass hammer?
